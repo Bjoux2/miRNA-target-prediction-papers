@@ -1,5 +1,5 @@
 # Existing-miRNA-target-gene-prediction-papers
-A collection of all existing miRNA target gene prediction papers.
+A collection of all the existing miRNA target gene prediction papers and some miRNA related databases.
 
 These papers are sorted by the accepted data (from the most current to oldest) and will be updated monthly.
 
