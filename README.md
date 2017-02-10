@@ -44,3 +44,4 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 # miRNA related databases
 
 # miRNA research paper
+**[number]** Bartel, DP. "**MicroRNAs: Genomics, biogenesis, mechanism, and function.**" CELL. (JAN 23 2004). [[pdf]](http://ac.els-cdn.com/S0092867404000455/1-s2.0-S0092867404000455-main.pdf?_tid=5a2310c2-ef6e-11e6-9a54-00000aacb362&acdnat=1486716971_e89af80a475e4e8e74031e8627fec5bd) **(Times cited larger than 14000.)** :star::star::star::star::star:
