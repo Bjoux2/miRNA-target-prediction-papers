@@ -37,7 +37,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2003
 
-**[number]** Lewis, BP (Lewis, BP); Shih, IH (Shih, IH); Jones-Rhoades, MW (Jones-Rhoades, MW); Bartel, DP (Bartel, DP); Burge, CB (Burge, CB). "**Prediction of mammalian microRNA targets **." CELL. (2003). [[pdf]](http://ac.els-cdn.com/S0092867403010183/1-s2.0-S0092867403010183-main.pdf?_tid=19f97fbe-ef6d-11e6-b5d9-00000aacb362&acdnat=1486716434_65e7fd14ec7de606120935863d5fae92) **(ps.)** :star::star::star::star::star:
+**[number]** Lewis, BP; Shih, IH; Jones-Rhoades, MW; Bartel, DP; Burge, CB. "**Prediction of mammalian microRNA targets **." CELL. (2003). [[pdf]](http://ac.els-cdn.com/S0092867403010183/1-s2.0-S0092867403010183-main.pdf?_tid=19f97fbe-ef6d-11e6-b5d9-00000aacb362&acdnat=1486716434_65e7fd14ec7de606120935863d5fae92) **(REVIEW.)** :star::star::star::star::star:
 
 ## 2002
 
