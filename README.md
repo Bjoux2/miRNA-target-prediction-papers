@@ -7,6 +7,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2016
 
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
+
 ## 2015
 
 ## 2014
@@ -36,3 +38,5 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 ## 2002
 
 # miRNA related databases
+
+# miRNA research paper
