@@ -32,6 +32,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2010
 
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
 **[number]** Marshall Thomas, Judy Lieberman, Ashish Lal. "**Desperately seeking microRNA targets**" nature structural & molecular biology. (6 October 2010). [[pdf]](http://idi.harvard.edu/uploads/investigators/Nature_Struc__Mol_Bio_Desperately_seeking_microRNA_targets_.pdf) **(Review, Perspective)** :star::star::star::star::star:
 ## 2009
 
@@ -63,7 +65,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 # Experiment paper
 
+**[number]** Stefanie Grosswendt, Andrei Filipchyk, Mark Manzano, Filippos Klironomos, Marcel Schilling, Margareta Herzog, Eva Gottwein and Nikolaus Rajewsky. "**Unambiguous Identification of miRNA:Target Site Interactions by Different Types of Ligation Reactions**" CELL. (26 March 2014). [[pdf]](http://ac.els-cdn.com/S1097276514003566/1-s2.0-S1097276514003566-main.pdf?_tid=5aab9d7e-f730-11e6-a825-00000aab0f26&acdnat=1487569953_7d602b52e262e08185e58b504ff797c5) **(famous CLIP dataset.)** :star::star::star::star::star:
+
 **[number]** Aleksandra Helwak, Grzegorz Kudla, Tatiana Dudnakova1 and David Tollervey. "**Mapping the Human miRNA Interactome by CLASH Reveals Frequent Noncanonical Binding**" CELL. (25 April 2013). [[pdf]](http://ac.els-cdn.com/S009286741300439X/1-s2.0-S009286741300439X-main.pdf?_tid=0727de56-f730-11e6-92a5-00000aacb360&acdnat=1487569813_6ee6cd64e168b891929980aa74415895) **(famous CLASH dataset.)** :star::star::star::star::star:
 
-
-**[number]** Stefanie Grosswendt, Andrei Filipchyk, Mark Manzano, Filippos Klironomos, Marcel Schilling, Margareta Herzog, Eva Gottwein and Nikolaus Rajewsky. "**Unambiguous Identification of miRNA:Target Site Interactions by Different Types of Ligation Reactions**" CELL. (2015). [[pdf]](http://ac.els-cdn.com/S1097276514003566/1-s2.0-S1097276514003566-main.pdf?_tid=5aab9d7e-f730-11e6-a825-00000aab0f26&acdnat=1487569953_7d602b52e262e08185e58b504ff797c5) **(famous CLIP dataset.)** :star::star::star::star::star:
+**[number]** Markus Hafner et al.. "**Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP**" journal. (27 February 2010). [[pdf]](http://ac.els-cdn.com/S009286741000245X/1-s2.0-S009286741000245X-main.pdf?_tid=4e8da5c6-f764-11e6-ad01-00000aacb35f&acdnat=1487592266_51559d8fc142fb566748e8da035d8830) **(Independent test dataset.)** :star::star::star::star::star:
