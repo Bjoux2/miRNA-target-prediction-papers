@@ -23,6 +23,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2010
 
+**[number]** Marshall Thomas, Judy Lieberman, Ashish Lal. "**Desperately seeking microRNA targets**" nature structural & molecular biology. (6 October 2010). [[pdf]](http://idi.harvard.edu/uploads/investigators/Nature_Struc__Mol_Bio_Desperately_seeking_microRNA_targets_.pdf) **(Review, Perspective)** :star::star::star::star::star:
 ## 2009
 
 ## 2008
