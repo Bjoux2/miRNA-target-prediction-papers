@@ -43,6 +43,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 ## 2002
 
 # miRNA related databases
+**[number]** author. "**miRTarBase**" Nucleic Acids Res. (20 November 2015). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/44/D1/10.1093_nar_gkv1258/3/gkv1258.pdf?Expires=1487907568&Signature=dZCsIFaCspJ8GG6d1ylE7J~mrgqaOQusGtDHLKsjeHlwE5~neFW5jRP4Ckbzpwt6jC-APqlm9R2GJFmIoHI-B7vRtwHPXM06yOCrYllDlFfn2xWZVzEb8o1Z8XJK2cbFzLKACUkL-oPf7ntBydZ55lB1K-rgshaLJKxBY4vHxCP9r2EvXLKFxBCj3w9tNmlf~t8MToGodnjBs5Js0am-RgY~BKai-py8fUO81B~04JpJxYiwy4c6gt5knAvRFUHVVFv6C0mcd9uULtz1Qq1r7EQTYmIdEH0FRoqjLJ6fMKT3iTe3uW0-iQJeREjV8ieJp05qqdU1~3T5MjLTels-1w__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) (2014). [[pdf
+
 
 # miRNA research paper
 **[number]** Bartel, DP. "**MicroRNAs: Genomics, biogenesis, mechanism, and function.**" CELL. (JAN 23 2004). [[pdf]](http://ac.els-cdn.com/S0092867404000455/1-s2.0-S0092867404000455-main.pdf?_tid=5a2310c2-ef6e-11e6-9a54-00000aacb362&acdnat=1486716971_e89af80a475e4e8e74031e8627fec5bd) **(A good paper for introducing microRNA. Times cited larger than 14000.)** :star::star::star::star::star:
