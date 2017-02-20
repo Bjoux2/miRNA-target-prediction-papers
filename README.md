@@ -22,6 +22,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** Vikram Agarwal, George W Bell, Jin-Wu Nam, David P Bartel. "**Predicting effective microRNA target sites in mammalian mRNAs**" journal. (August 12, 2015). [[pdf]](https://elifesciences.org/content/4/e05005-download.pdf) **(TargetScan.)** :star::star::star::star::star:
 
+**[number]** S Cheng, M Guo, C Wang and X Liu. "**MiRTDL: A Deep Learning Approach for miRNA Target Prediction **" IEEE/ACM Transactions on Computational Biology and Bioinformatics. (2015). [[pdf]](http://ieeexplore.ieee.org/abstract/document/7362158/) **(miRTDL.)** :star::star::star::star::star:
+
 ## 2014
 
 ## 2013
