@@ -9,6 +9,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
+**[number]** B Lee, J Baek, S Park and S Yoon. "**deepTarget: End-to-end Learning Framework for microRNA Target Prediction  using Deep Recurrent Neural Networks**" arXiv. (deepTarget: End-to-end Learning Framework for microRNA Target Prediction  using Deep Recurrent Neural Networks). [[pdf]](site) **(deepTarget, RNN.)** :star::star::star::star::star:
+
 **[number]** J Ding, X Li, H Hu. "**TarPmiR: a new approach for microRNA target site prediction**" Bioinformatics. (20 May 2016
 ). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/18/10.1093_bioinformatics_btw318/3/btw318.pdf?Expires=1487936769&Signature=EzoBlbOBmgKKVr1I5gtyE5qUkFVPUVRD4TQZsWlsjHQGbgY41AkJj-lcbiiWkmqxybOOdnTR23k6jQGNZ6Iwl8wmbsYoh~4G8NWdLyQLrQTlpKOHXLvMsqgemKgjsAU2pABeXso3zH8AABu1J0IbND4Da2ejkVcboW~juNGIZ-Tf4yUr1ErVbXOKxjjPKXGt7Hl69hmgMwAgJ5Aa20FsrV~QnlMwI4QaqnYHXN4He0cNSoyfxIVkxH59f6NTRjBAxLU1mO6PuZ~GKok1kMy6odxPU0iNWqc37muQdH-YdpG1mWY2gn-0ZqGyN6Hee9LX21sD1M3y9ksQXlH1MaNqMg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(TarPmiR.)** :star::star::star::star::star:
 
