@@ -13,6 +13,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2015
 
+**[number]** Vikram Agarwal, George W Bell, Jin-Wu Nam, David P Bartel. "**Predicting effective microRNA target sites in mammalian mRNAs**" journal. (August 12, 2015). [[pdf]](https://elifesciences.org/content/4/e05005-download.pdf) **(TargetScan.)** :star::star::star::star::star:
+
 ## 2014
 
 ## 2013
