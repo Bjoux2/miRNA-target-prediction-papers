@@ -9,9 +9,12 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
+**[number]** J Ding, X Li, H Hu. "**TarPmiR: a new approach for microRNA target site prediction**" Bioinformatics. (20 May 2016
+). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/18/10.1093_bioinformatics_btw318/3/btw318.pdf?Expires=1487936769&Signature=EzoBlbOBmgKKVr1I5gtyE5qUkFVPUVRD4TQZsWlsjHQGbgY41AkJj-lcbiiWkmqxybOOdnTR23k6jQGNZ6Iwl8wmbsYoh~4G8NWdLyQLrQTlpKOHXLvMsqgemKgjsAU2pABeXso3zH8AABu1J0IbND4Da2ejkVcboW~juNGIZ-Tf4yUr1ErVbXOKxjjPKXGt7Hl69hmgMwAgJ5Aa20FsrV~QnlMwI4QaqnYHXN4He0cNSoyfxIVkxH59f6NTRjBAxLU1mO6PuZ~GKok1kMy6odxPU0iNWqc37muQdH-YdpG1mWY2gn-0ZqGyN6Hee9LX21sD1M3y9ksQXlH1MaNqMg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(TarPmiR.)** :star::star::star::star::star:
+
 **[number]** Xiaowei Wang. "**Improving microRNA target prediction by modeling with unambiguously identified microRNA-target pairs from CLIP-ligation studies**" Bioinformatics. (6 January 2016). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/9/10.1093_bioinformatics_btw002/3/btw002.pdf?Expires=1487926953&Signature=bGo1u3FEeJ0j0DEI7frpOkLq4J7Toe0l7PlHa~IUuV7K5f0tLut9ngeDGltxOKR3V6DR8A5j9BYYB34V0zpZYonu4WzYZpvdnMfBtr7ZG89J0ng68NbTSVTa-QIRhV90FbT45vlubAau9k9s4~oqXT4dL1NpFqc-rftX2m9rqZiKPETLKCo5Nlqci-iFxaWCdTJZGvRpOpH0xSH7jhm0wx2AkxWNGNmehZfM1uKdcoKezMkcfvqpZi1WuVrrEoihDpTcM76-92TMS0lki8IoqOFaxC6XiYOPJ9MWZIeubjkpPXuQ9kQkp13AlLiPCDI~EDBXvDaP82ydOW~eUR~0CQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(mirtarget.)** :star::star::star::star::star:
 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
+
 
 ## 2015
 
