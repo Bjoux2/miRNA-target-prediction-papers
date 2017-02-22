@@ -181,7 +181,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** Bino John and Debora S. Marks et al.. "**Human MicroRNA Targets**" PLOS Biology. (October 5, 2004). [[pdf]](http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0020363&type=printable) **(miranda.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Marianthi Kiriakidou and Artemis Hatzigeorgiou et al.. "**A combined computational-experimental approach predicts human microRNA targets**" Genes Dev. (April 6, 2004). [[pdf]](http://genesdev.cshlp.org/content/18/10/1165.full.pdf+html) **(DIANA-microT.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
