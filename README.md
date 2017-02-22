@@ -197,7 +197,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Alexander Stark, Robert B. Russell, Stephen M. Cohen et al.. "**Identification of Drosophila MicroRNA Targets**" PLoS Biol. (October 13, 2003). [[pdf]](http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0000060&type=printable) **(the first target identified by performing bioinformatics screen.)** :star::star::star::star::star:
 
 **[number]** Lewis, BP; Shih, IH; Jones-Rhoades, MW; Bartel, DP; Burge, CB. "**Prediction of mammalian microRNA targets.**" CELL. (DEC 26 2003). [[pdf]](http://ac.els-cdn.com/S0092867403010183/1-s2.0-S0092867403010183-main.pdf?_tid=19f97fbe-ef6d-11e6-b5d9-00000aacb362&acdnat=1486716434_65e7fd14ec7de606120935863d5fae92) **(Review.)** :star::star::star::star::star:
 
