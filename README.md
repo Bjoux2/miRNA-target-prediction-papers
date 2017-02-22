@@ -131,7 +131,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** X Wang and IM El Naqa. "**Prediction of both conserved and nonconserved microRNA targets in animals**" Bioinformatics. (November 20 2007). [[pdf]](https://pdfs.semanticscholar.org/a331/2e4b7e6e670d8cdf415ae57e06b650db9c5c.pdf) **(MirTarget2.)** :star::star::star::star::star:
 
-**[number]** M Yousef, S Jung, AV Kossenkov, LC Showe and Michael K.. Showe. "**Naïve Bayes for microRNA target predictions—machine learning for microRNA targets**" Bioinformatics. (September 11 2007). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** M Yousef, S Jung, AV Kossenkov, LC Showe and Michael K.. Showe. "**Naïve Bayes for microRNA target predictions—machine learning for microRNA targets**" Bioinformatics. (September 11 2007). [[pdf]](site) **(NBmiRTar.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
