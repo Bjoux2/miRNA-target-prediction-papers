@@ -113,7 +113,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2008
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** M Hammell, D Long and V Ambros et al.. "**mirWIP: microRNA target prediction based on microRNA-containing ribonucleoprotein–enriched transcripts**" Nature Method. (17 August 2008). [[pdf]](http://sfold.wadsworth.org/publications/Hammell_etal_suppl.pdf) **(mirWIP.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
@@ -133,7 +133,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** M Yousef, S Jung, AV Kossenkov, LC Showe and Michael K.. Showe. "**Naïve Bayes for microRNA target predictions—machine learning for microRNA targets**" Bioinformatics. (September 11 2007). [[pdf]](site) **(NBmiRTar.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** M Kertesz, N Iovino, U Unnerstall, U Gaul and E Segal. "**The role of site accessibility in microRNA target recognition**" Nature Genetics. (23 September 2007). [[pdf]](http://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Kertesz2007role.pdf) **(PITA.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
