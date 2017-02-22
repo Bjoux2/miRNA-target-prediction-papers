@@ -41,6 +41,8 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 **[number]** Marshall Thomas, Judy Lieberman, Ashish Lal. "**Desperately seeking microRNA targets**" nature structural & molecular biology. (6 October 2010). [[pdf]](http://idi.harvard.edu/uploads/investigators/Nature_Struc__Mol_Bio_Desperately_seeking_microRNA_targets_.pdf) **(Review, Perspective)** :star::star::star::star::star:
 ## 2009
 
+**[number]** Sanghamitra Bandyopadhyayand Ramkrishna Mitra and Ramkrishna Mitra. "**TargetMiner: microRNA target prediction with systematic identification of tissue-specific negative examples**" Bioinformatics. (19 August 200). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/25/20/10.1093/bioinformatics/btp503/2/btp503.pdf?Expires=1488083058&Signature=a~mFLJrSemvzRFJHhVMEyyt6E5~bVTEJT5db9FsJ8OGmKyotLHKFYmn4mrwZAwekIedcmsmgPK-3HODjvzseQngzpUJ~k3dCvccSBgZ2fs1wSq9aiIhvTMcFCG05btlEBNFX3aseFXvjoOZD64mB7Un~dyTXZXiCeyRIAevxUGJucb7TYgDqrT0AJPlp-1~hYczXIeg7EogWaaoUaMJDdGO4tCAouVGo05uL71s6Cls3l5Yc6pgSkNUh2c1xrATdCDQzwueBsnMGlF8~rHhbYmKDpaNQ6aXdi4JGDbTcow6V0F1Q1O2jqKvIM9GJtk8ET2OJM9mmfuh5pCCxHC3grg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(TargetMiner.)** :star::star::star::star:
+
 ## 2008
 
 ## 2007
