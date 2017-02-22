@@ -143,9 +143,9 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2006
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Sung-Kyu Kim and Byoung-Tak Zhang et al.. "**miTarget: microRNA target gene prediction using a support vector machine**" BMC Bioinformatics. (18 September 2006). [[pdf]](http://download.springer.com/static/pdf/662/art%253A10.1186%252F1471-2105-7-411.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2F1471-2105-7-411&token2=exp=1487741661~acl=%2Fstatic%2Fpdf%2F662%2Fart%25253A10.1186%25252F1471-2105-7-411.pdf*~hmac=a90b3ccf79cb4fc9842c8803fb11dffe3257755f219c681d7f7db1f23cd04c48) **(miTarget.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** N Rajewsky. "**microRNA target predictions in animals**" Nature Genetics. (30 May 2006). [[pdf]](http://gene-quantification.de/rajewsky-micro-rna-2006.pdf) **(a detailed review of miRNA target prediction methods before 2006. very important)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
@@ -163,9 +163,9 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2005
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** A Krek and N Rajewsky et al.. "**Combinatorial microRNA target predictions**" Nature. (3 April 2005). [[pdf]](http://www.mrc-lmb.cam.ac.uk/genomes/madanm/balaji/micro.pdf) **(PicTar.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** OLA SaeTrom, OLA SNØVE and PÅL SÆTROM. "**Weighted sequence motifs as an improved seeding step in microRNA target prediction algorithms**" RNA. (April 7, 2005). [[pdf]](http://rnajournal.cshlp.org/content/11/7/995.full.pdf+html) **(TargetBoost.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
