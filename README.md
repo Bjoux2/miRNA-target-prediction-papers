@@ -40,7 +40,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2013
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** MR Mendoza, GC da Fonseca et al. "**RFMirTarget: predicting human microRNA target genes with a random forest classifier**" PLOS One. (July 26, 2013). [[pdf]](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0070153&type=printable) **(RFMirTarget.)** :star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
@@ -54,7 +54,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2012
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Charles E. Vejnar and Evgeny M. Zdobnov. "**MiRmap: comprehensive prediction of microRNA target repression strength**" Nucleic acids research. (2 October 2012). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/40/22/10.1093/nar/gks901/2/gks901.pdf?Expires=1488172355&Signature=Bsamjooa2NR8YlKEvEq0yCpz~jllBYuVPjK90DxbZy7VCjZ5OccEZpe-jcSTp0dQV3NhVlyCIykhZbLsXmk3TJn3PpPxosftqvgFsL9Xn2DmBV-5FM4HSZ7SciJRKbcwvV5NMlgzVM4ZbDcQHbLYTTy3-HowkwyJH0C5q4GCWb61TzDll3lnpUu4P-PaW72x-rfqh12vr~rDutj-sDjiw4rvcf750G0B3IOVHkZZCJabBYbV0F8i64q75C0xElcZDEc3YbRB32o2pxZ8gWLxDDSk1gaz7HDH77VXOxrt91i4cimRNOkrqosZda-NCmHDImNgLmVQiUopa85B4CUHvQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(MiRmap.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
@@ -80,7 +80,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2010
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Martin Sturm, Michael Hackenberg, David Langenberger and Dmitrij Frishman. "**TargetSpy: a supervised machine learning approach for microRNA target prediction**" BMC Bioinformatics. (28 May 2010). [[pdf]](http://download.springer.com/static/pdf/284/art%253A10.1186%252F1471-2105-11-292.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2F1471-2105-11-292&token2=exp=1487826381~acl=%2Fstatic%2Fpdf%2F284%2Fart%25253A10.1186%25252F1471-2105-11-292.pdf*~hmac=96d9616b072ea4287996614e5cb6a9e0ef4a3be024a82f0dbd47a3f0316ab58e) **(TargetSpy.)** :star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
