@@ -68,7 +68,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 ## 2011
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** JBK Hsu, CM Chiu et al. "**miRTar: an integrated system for identifying miRNA-target interactions in human**" BMC Bioinformatics. (26 July 2011). [[pdf]](http://download.springer.com/static/pdf/83/art%253A10.1186%252F1471-2105-12-300.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2F1471-2105-12-300&token2=exp=1487827778~acl=%2Fstatic%2Fpdf%2F83%2Fart%25253A10.1186%25252F1471-2105-12-300.pdf*~hmac=96f01566ffe076d9e7ea326952fd767a2bdc483bd29de6d438195f73bb98b7b1) **(miRTar.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
