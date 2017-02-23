@@ -18,9 +18,23 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** Xiaowei Wang. "**Improving microRNA target prediction by modeling with unambiguously identified microRNA-target pairs from CLIP-ligation studies**" Bioinformatics. (6 January 2016). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/9/10.1093_bioinformatics_btw002/3/btw002.pdf?Expires=1487926953&Signature=bGo1u3FEeJ0j0DEI7frpOkLq4J7Toe0l7PlHa~IUuV7K5f0tLut9ngeDGltxOKR3V6DR8A5j9BYYB34V0zpZYonu4WzYZpvdnMfBtr7ZG89J0ng68NbTSVTa-QIRhV90FbT45vlubAau9k9s4~oqXT4dL1NpFqc-rftX2m9rqZiKPETLKCo5Nlqci-iFxaWCdTJZGvRpOpH0xSH7jhm0wx2AkxWNGNmehZfM1uKdcoKezMkcfvqpZi1WuVrrEoihDpTcM76-92TMS0lki8IoqOFaxC6XiYOPJ9MWZIeubjkpPXuQ9kQkp13AlLiPCDI~EDBXvDaP82ydOW~eUR~0CQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(mirtarget.)** :star::star::star::star::star:
 
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 ## 2015
+
+**[number]** author. "**Prediction of microRNA target genes using an efficient genetic algorithm-based decision tree**" FEBS open bio. (19 October 2015). [[pdf]](http://ac.els-cdn.com/S2211546315000972/1-s2.0-S2211546315000972-main.pdf?_tid=72c3ac92-f98a-11e6-8a03-00000aacb361&acdnat=1487828550_3cc9493eb88ae1b56e79c1af6b30664c) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[number]** Vikram Agarwal, George W Bell, Jin-Wu Nam, David P Bartel. "**Predicting effective microRNA target sites in mammalian mRNAs**" journal. (August 12, 2015). [[pdf]](https://elifesciences.org/content/4/e05005-download.pdf) **(TargetScan.)** :star::star::star::star::star:
 
@@ -42,7 +56,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** MR Mendoza, GC da Fonseca et al. "**RFMirTarget: predicting human microRNA target genes with a random forest classifier**" PLOS One. (July 26, 2013). [[pdf]](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0070153&type=printable) **(RFMirTarget.)** :star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** C Coronnello, PV Benos. "**ComiR: combinatorial microRNA target prediction tool**" Nucleic Acids Research. (April 18, 2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.800.8685&rep=rep1&type=pdf) **(ComiR.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
