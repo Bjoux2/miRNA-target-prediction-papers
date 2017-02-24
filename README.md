@@ -219,15 +219,44 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 # miRNA related databases
 
+**[number]** F Xiao, Z Zuo, G Cai, S Kang, X Gao and T Li. "**miRecords: an integrated resource for microRNA–target interactions**" Nucleic acids research. (07 November 2008
+). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/37/suppl_1/10.1093/nar/gkn851/2/gkn851.pdf?Expires=1488251846&Signature=SvaMViBEgoCsPxiUn8j994GEf~ZszAeIxVogASBpovCpdmSMUK1zjiN0RNxOKRM2WjF87LSB-eF0YbxC4DEUp3Ce1ICXKpgw3jr94ovzS1YC1SxL2imjlEHQVoNGySxaOJtJmhhuC-A4EgfqOhaOXLfGE~gVKc2zhKkQURyRP3PFX4kyLbPdx3jyy8P6S0GCZBVDsUedIgSQ7OlO3ffU6mFXimGYAltj0ydlb2mmfviuv4vsHPnnu7Q7S5UfvONwe7jqFZ1AyNoZ4v~eCiU6dQDdCqj5gQvbxGGFEnzZGRsc-YIgMSixwCe4rI9e3j5uUF3~k8vKjrDtmdKi3vk-gA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(miRecords.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
 **[number]** Chih-Hung Chou, Hsien-Da Huang et. al. . "**miRTarBase**" Nucleic Acids Res. (20 November 2015). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/44/D1/10.1093_nar_gkv1258/3/gkv1258.pdf?Expires=1487907568&Signature=dZCsIFaCspJ8GG6d1ylE7J~mrgqaOQusGtDHLKsjeHlwE5~neFW5jRP4Ckbzpwt6jC-APqlm9R2GJFmIoHI-B7vRtwHPXM06yOCrYllDlFfn2xWZVzEb8o1Z8XJK2cbFzLKACUkL-oPf7ntBydZ55lB1K-rgshaLJKxBY4vHxCP9r2EvXLKFxBCj3w9tNmlf~t8MToGodnjBs5Js0am-RgY~BKai-py8fUO81B~04JpJxYiwy4c6gt5knAvRFUHVVFv6C0mcd9uULtz1Qq1r7EQTYmIdEH0FRoqjLJ6fMKT3iTe3uW0-iQJeREjV8ieJp05qqdU1~3T5MjLTels-1w__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) (November 12 2014). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/42/D1/10.1093/nar/gkt1266/2/gkt1266.pdf?Expires=1487910403&Signature=U55peCBE5amNQJQH49zI~8pSJNMrp8f2GR6Y15To~6XL7E8~WtqrunuWxvZV99OvwFuq6GymkTIJ~FroKCcsu7y-A-TxVHv65-aIqLHZLCUnTDS3I5g8r6SuDXvol6JNauoOh5KuoHEpcZr8Q0Grz8XXHi4rykp3d8Mqqq1H1AgYxxQvbByeVlO5XTWDLGykl5GjxzT9NTljYmYwaSymNURApaRWUyEBwQa1lCdunwH2Y9NCMuh0ZjAk~EHlEFhBFBC7OYGUfnbBfLnDKBZukUjdOwfcvNclDj85ivs-FnR82pQzdN1WKEOQd9rfP-Ey4mQeJURSIKchr8dRPltERw__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
 
 # miRNA research paper
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[number]** Bartel, DP. "**MicroRNAs: Genomics, biogenesis, mechanism, and function.**" CELL. (JAN 23 2004). [[pdf]](http://ac.els-cdn.com/S0092867404000455/1-s2.0-S0092867404000455-main.pdf?_tid=5a2310c2-ef6e-11e6-9a54-00000aacb362&acdnat=1486716971_e89af80a475e4e8e74031e8627fec5bd) **(A good paper for introducing microRNA. Times cited larger than 14000.)** :star::star::star::star::star:
 
 **[number]** Bartel, DP. "**MicroRNAs: Target Recognition and Regulatory Functions.**" CELL. (JAN 23 2009). [[pdf]](http://ac.els-cdn.com/S0092867409000087/1-s2.0-S0092867409000087-main.pdf?_tid=f97036d4-ef76-11e6-951b-00000aacb361&acdnat=1486720675_94586c4c149ed853e515ebc88c2ea060) **(Hot paper. Times cited larget than 7000.)** :star::star::star::star::star:
 
 # Experiment paper
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[number]** Stefanie Grosswendt, Andrei Filipchyk, Mark Manzano, Filippos Klironomos, Marcel Schilling, Margareta Herzog, Eva Gottwein and Nikolaus Rajewsky. "**Unambiguous Identification of miRNA:Target Site Interactions by Different Types of Ligation Reactions**" CELL. (26 March 2014). [[pdf]](http://ac.els-cdn.com/S1097276514003566/1-s2.0-S1097276514003566-main.pdf?_tid=5aab9d7e-f730-11e6-a825-00000aab0f26&acdnat=1487569953_7d602b52e262e08185e58b504ff797c5) **(famous CLIP dataset.)** :star::star::star::star::star:
 
