@@ -44,7 +44,7 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 
 **[number]** X Fan, L Kurgan. "**Comprehensive overview and assessment of computational prediction of microRNA targets in animals**" Briefings in bioinformatics. (13 October 2014). [[pdf]](https://www.researchgate.net/profile/Xiao_Fan6/publication/269188964_Comprehensive_overview_and_assessment_of_computational_prediction_of_microRNA_targets_in_animals/links/55060b350cf2d60c0e6c8340.pdf) **(Review. Important)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** Sarah M. Peterson et al. "**Common features of microRNA target prediction tools**" Frontiers in GENETICS. (2014). [[pdf]](https://pdfs.semanticscholar.org/492b/a458e9791f2c328b376a3dc505460795b160.pdf) **(review of features.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
