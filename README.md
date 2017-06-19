@@ -1,9 +1,17 @@
 # Existing-miRNA-target-gene-prediction-papers
-A collection of all the existing miRNA target gene prediction papers and some miRNA related databases.
+A collection of existing miRNA target gene prediction papers and some miRNA related databases.
+
+Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, and JPR.
 
 These papers are sorted by the accepted data (from the most current to oldest) and will be updated monthly.
 
 # Prediction methods
+
+## 2017
+
+### June
+
+
 
 ## 2016
 
