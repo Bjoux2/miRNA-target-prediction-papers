@@ -5,6 +5,8 @@ Those papers were mainly published in Nature, Nature Methods, Nature protocols, 
 
 These papers are sorted by the accepted data (from the most current to oldest) and will be updated monthly.
 
+At the bottom of this page, a table contains all these methods is provided. 
+
 # Prediction methods
 
 ## 2017
@@ -273,3 +275,52 @@ These papers are sorted by the accepted data (from the most current to oldest) a
 **[number]** Aleksandra Helwak, Grzegorz Kudla, Tatiana Dudnakova1 and David Tollervey. "**Mapping the Human miRNA Interactome by CLASH Reveals Frequent Noncanonical Binding**" CELL. (25 April 2013). [[pdf]](http://ac.els-cdn.com/S009286741300439X/1-s2.0-S009286741300439X-main.pdf?_tid=0727de56-f730-11e6-92a5-00000aacb360&acdnat=1487569813_6ee6cd64e168b891929980aa74415895) **(famous CLASH dataset.)** :star::star::star::star::star:
 
 **[number]** Markus Hafner et al.. "**Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP**" journal. (27 February 2010). [[pdf]](http://ac.els-cdn.com/S009286741000245X/1-s2.0-S009286741000245X-main.pdf?_tid=4e8da5c6-f764-11e6-ad01-00000aacb35f&acdnat=1487592266_51559d8fc142fb566748e8da035d8830) **(Independent test dataset.)** :star::star::star::star::star:
+
+
+## All in one. 
+
+| Predictor | Year published | Model type | availability |
+| --------- | -------------- | ---------- | ------------ |
+| Stark et al.	|	2003	Screening	
+| Targetscan	|	2003	Score	
+| DIANA-microT	|	2004	Score	
+| RNAhybrid	|	2004	Score	
+| miRanda	|	2004	Score	
+| Rajewsky	|	2004	Score	
+| TargetScanS	|	2005	Score	
+| Robins	|	2005	Score	
+| Xie et al.	|	2005	Score	
+| PicTar	|	2005	Score	
+| MovingTarget	|	2005	Screening 	
+| Microlnspector	|	2005	Score	
+| TargetBoost	|	2005	GP	
+| Stark et al.	|	2005	Score	
+| miTarget	|	2006	SVM	
+| RNA22	|	2006	Score	
+| MicroTar	|	2006	Score	
+| EIMMo	|	2007	Bayesian	
+| STarMir	|	2007	Score	
+| PITA	|	2007	Score	
+| TargetRank	|	2007	Score	
+| Ensemble 	|	2007	SVM	
+| NBmiRTar	|	2007	Bayesian 	
+| MiTarget2	|	2008	SVM	
+| HuMiTar	|	2008	Score	
+| MiRTif	|	2008	SVM	
+| mirWIP	|	2008		
+| TargetMiner	|	2009	SVM	
+| TargetSpy		2010	DS	
+| Mtar		2010	ANN	
+| mirSVR		2010	Score	
+| SVMicrO		2010	SVM	
+| RepTar		2010	Screening 	
+| miRror		2010		
+| PACMIT		2011	Screening 	
+| MultiMiTar		2011	SVM	
+| miREE		2011	SVM	
+| miRcode		2012	Screening 	
+| miRmap		2012	Regression	
+| HomoTarget		2012	ANN	
+
+
+
