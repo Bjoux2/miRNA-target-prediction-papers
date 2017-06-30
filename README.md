@@ -328,7 +328,6 @@ At the bottom of this page, a table contains all these methods is provided.
 | ComiR	|	2013 |	
 | mirMark	|	2014 |	RF	|
 | STarMir	|	2014 |		
-| |	|	|
 | TargetScan v7.0 |	2015 |		
 | MiRTDL	|	2015 |		
 | Xiaowei Wang	|	2016 |	SVM |	
