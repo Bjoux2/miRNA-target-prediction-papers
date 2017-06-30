@@ -281,46 +281,64 @@ At the bottom of this page, a table contains all these methods is provided.
 
 | Predictor | Year published | Model type | availability |
 | --------- | -------------- | ---------- | ------------ |
-| Stark et al.	|	2003	Screening	
-| Targetscan	|	2003	Score	
-| DIANA-microT	|	2004	Score	
-| RNAhybrid	|	2004	Score	
-| miRanda	|	2004	Score	
-| Rajewsky	|	2004	Score	
-| TargetScanS	|	2005	Score	
-| Robins	|	2005	Score	
-| Xie et al.	|	2005	Score	
-| PicTar	|	2005	Score	
-| MovingTarget	|	2005	Screening 	
-| Microlnspector	|	2005	Score	
-| TargetBoost	|	2005	GP	
-| Stark et al.	|	2005	Score	
-| miTarget	|	2006	SVM	
-| RNA22	|	2006	Score	
-| MicroTar	|	2006	Score	
-| EIMMo	|	2007	Bayesian	
-| STarMir	|	2007	Score	
-| PITA	|	2007	Score	
-| TargetRank	|	2007	Score	
-| Ensemble 	|	2007	SVM	
-| NBmiRTar	|	2007	Bayesian 	
-| MiTarget2	|	2008	SVM	
-| HuMiTar	|	2008	Score	
-| MiRTif	|	2008	SVM	
-| mirWIP	|	2008		
-| TargetMiner	|	2009	SVM	
-| TargetSpy		2010	DS	
-| Mtar		2010	ANN	
-| mirSVR		2010	Score	
-| SVMicrO		2010	SVM	
-| RepTar		2010	Screening 	
-| miRror		2010		
-| PACMIT		2011	Screening 	
-| MultiMiTar		2011	SVM	
-| miREE		2011	SVM	
-| miRcode		2012	Screening 	
-| miRmap		2012	Regression	
-| HomoTarget		2012	ANN	
+| Stark et al.	|	2003 |	Screening |	
+| Targetscan	|	2003 |	Score |	
+| DIANA-microT	|	2004 |	Score |	
+| RNAhybrid	|	2004 |	Score |	
+| miRanda	|	2004 |	Score |	
+| Rajewsky	|	2004 |	Score |	
+| TargetScanS	|	2005 |	Score |	
+| Robins	|	2005 |	Score |	
+| Xie et al.	|	2005 |	Score |	
+| PicTar	|	2005 |	Score |	
+| MovingTarget	|	2005 |	Screening | 	
+| Microlnspector	|	2005 |	Score |	
+| TargetBoost	|	2005 |	GP |	
+| Stark et al.	|	2005 |	Score |	
+| miTarget	|	2006 |	SVM |	
+| RNA22	|	2006 |	Score |	
+| MicroTar	|	2006 |	Score |	
+| EIMMo	|	2007 |	Bayesian |	
+| STarMir	|	2007 |	Score |	
+| PITA	|	2007 |	Score |	
+| TargetRank	|	2007 |	Score |	
+| Ensemble 	|	2007 |	SVM |	
+| NBmiRTar	|	2007 |	Bayesian | 	
+| MiTarget2	|	2008 |	SVM |	
+| HuMiTar	|	2008 |	Score |	
+| MiRTif	|	2008 |	SVM |	
+| mirWIP	|	2008 |		
+| TargetMiner	|	2009 |	SVM |	
+| TargetSpy	|	2010 |	DS |	
+| Mtar	|	2010 |	ANN |	
+| mirSVR	|	2010 |	Score |	
+| SVMicrO	|	2010 |	SVM |	
+| RepTar	|	2010 |	Screening | 	
+| miRror	|	2010 |		
+| PACMIT	|	2011 |	Screening | 	
+| MultiMiTar	|	2011 |	SVM |	
+| miREE	|	2011 |	SVM |	
+| miRcode	|	2012 |	Screening | 	
+| miRmap	|	2012 |	Regression |	
+| HomoTarget	|	2012 |	ANN |	
+| SuperMirtTar	|	2013 |	Graph |	
+| Fujiwara’s	|	2013 |	Cis-element | 	
+| MIRZA	|	2013 |	Bayesian |	
+| DIANA-microT-CDS	|	2013 |		
+| ComiR	|	2013 |	
+| mirMark	|	2014 |	RF	|
+| STarMir	|	2014 |		
+| |	|	|
+| TargetScan v7.0 |	2015 |		
+| MiRTDL	|	2015 |		
+| Xiaowei Wang	|	2016 |	SVM |	
+| CIDER	|			
+| CHIMIrIC	|	2016 |		
+| TargetExpress	|	2016 |		
+| TarPmiR	|	2016 |		
+| deepTarget	|	2016 |		
+| MiRNATIP	|	2016 |		
+| miRTar2GO	|	2017 |		
 
 
 
