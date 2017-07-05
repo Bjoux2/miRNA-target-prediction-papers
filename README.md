@@ -14,6 +14,8 @@ At the bottom of this page, a table contains all these methods is provided.
 ### June
 ### May
 **[01]** Silvia Bottini et al. "**Recent computational developments on CLIP-seq data analysis and microRNA targeting implications**" Briefings in Bioinformatics. (4 May 2017). [[pdf]](https://academic.oup.com/bib/article/doi/10.1093/bib/bbx063/3866720/Recent-computational-developments-on-CLIPseq-data) **(ps.)** :star::star::star::star::star:
+### March
+**[01]** Minsik Oh et al. "**Literature-based condition-specific miRNA-mRNA target prediction**" PLOS One. (2017). [[pdf]](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174999&type=printable) **(ps.)** :star::star::star:
 
 <br>
 
